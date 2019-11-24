@@ -16,7 +16,7 @@ public class Test13 {
 
     @Test
     public void test3(){
-        assert robotMove13.movingCount(10, 1, 100) == 359;
+        assert robotMove13.movingCount(10, 1, 100) == 29;
     }
 
     @Test
